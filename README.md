@@ -27,7 +27,9 @@ Achievements
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/eb4e1867-7047-448e-a3a2-8279b71c3d13" width="150" alt="Role Contributor"/><img src="https://github.com/user-attachments/assets/dcda92e0-b93c-4ac7-b15e-9b1f3192ccb8" width="150" alt="Rising Star"/>  <img src="https://github.com/user-attachments/assets/4bc3aaec-c96d-48bb-acb8-f405a337ffa5" width="150" alt="Point Scorer"/> <img src="https://github.com/user-attachments/assets/505a97a2-3db9-4bbc-9328-3f32e5a6da60" width="150" alt="First Steps"/> </p>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/c016e07c-0aed-47e8-a0dc-797f8ebb4d6f" width="150" alt="Early Bird"/> <img src="https://github.com/user-attachments/assets/69348985-764c-4f17-b706-fc4cb62a27bd" width="150" alt="gssoc-badge-week_one" /> <img src="https://github.com/user-attachments/assets/7f69565e-6b4c-4be7-a68d-c167618f1830" width="150" alt="Bounty Hunter"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/8634ef76-582b-40a3-81c8-32098c6b2348"  alt="gssoc-badge-bounty_master" width="150" /> <img src="https://github.com/user-attachments/assets/c016e07c-0aed-47e8-a0dc-797f8ebb4d6f" width="150" alt="Early Bird"/> <img src="https://github.com/user-attachments/assets/69348985-764c-4f17-b706-fc4cb62a27bd" width="150" alt="gssoc-badge-week_one" /> <img src="https://github.com/user-attachments/assets/7f69565e-6b4c-4be7-a68d-c167618f1830" width="150" alt="Bounty Hunter"/> </p>
+
+
 
 
 ---
