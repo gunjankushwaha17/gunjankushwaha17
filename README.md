@@ -1,35 +1,82 @@
-# Hi there, I'm Gunjan 👋
 
-🎓 B.Tech Computer Science Engineering Student
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width=100% />
+</p>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Gunjan Kushwaha</h1>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;DSA+%7C+C%2B%2B+Problem+Solver;React.js+%7C+Next.js+%7C+Node.js;Rank+%23645+Globally+%40+GSSoC%2726;Open+Source+Contributor;Top-50+Rank+Globally+%40+SmartlyInfra;Cloud+%2B+Networking" alt="Typing SVG" />
+  </a>
+</p>
+</p>
 
-I'm a passionate CSE student who enjoys building user-focused digital products, contributing to open source, and exploring new technologies. I am particularly interested in Web Development, Product Design, and creating impactful solutions through technology.
-💻 Interested in:
-- Web Development
-- Open Source
----
-🌱 Currently Learning:
-- Data Structures & Algorithms
-- Open Source Development
-- Full-Stack Development
----
-✨ I enjoy building user-focused products, contributing to open source, and exploring innovative tech solutions.
-
----
-🏆 GSSoC 2026
-
-Proud participant of GirlScript Summer of Code 2026.
-
-Main Badges
-
-<p align="center"> <img src="https://github.com/user-attachments/assets/1c2623c0-0d2b-4407-8c26-1b2b2ef68101" width="200" alt="Contributor"/> <img src="https://github.com/user-attachments/assets/01e1b1a6-1fb2-469a-a4eb-1091c50eb013" width="200" alt="Open Source"/> <img src="https://github.com/user-attachments/assets/06c4a118-e790-41a5-9385-71d0ec3fb1f6" width="200" alt="AI Agent"/> </p>
-
-Achievements
-
-<p align="center"> <img src="https://github.com/user-attachments/assets/dcda92e0-b93c-4ac7-b15e-9b1f3192ccb8" width="150" alt="Rising Star"/> <img src="https://github.com/user-attachments/assets/69348985-764c-4f17-b706-fc4cb62a27bd" width="150" alt="gssoc-badge-week_one" /> <img src="https://github.com/user-attachments/assets/0efe0c86-8fab-4a2f-98b2-8f7a32b85e19" width="150" alt="Elite"/> <img src="https://github.com/user-attachments/assets/05406733-09c6-4187-8c2c-9bf978d73691" width="150" alt="gssoc-badge-power_contributor"  />  <img src="https://github.com/user-attachments/assets/4bc3aaec-c96d-48bb-acb8-f405a337ffa5" width="150" alt="Point Scorer"/>  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE-1E40AF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JECRC%20University-9.35%20CGPA-1E40AF?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/2023--2027-Student-1E40AF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jaipur%2C%20Rajasthan%2C%20India-1E40AF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/8634ef76-582b-40a3-81c8-32098c6b2348"  alt="gssoc-badge-bounty_master" width="150" /> <img src="https://github.com/user-attachments/assets/c016e07c-0aed-47e8-a0dc-797f8ebb4d6f" width="150" alt="Early Bird"/> <img src="https://github.com/user-attachments/assets/eb4e1867-7047-448e-a3a2-8279b71c3d13" width="150" alt="Role Contributor"/>  <img src="https://github.com/user-attachments/assets/505a97a2-3db9-4bbc-9328-3f32e5a6da60" width="150" alt="First Steps"/> <img src="https://github.com/user-attachments/assets/7f69565e-6b4c-4be7-a68d-c167618f1830" width="150" alt="Bounty Hunter"/></p>
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gunjankushwaha17?cardType=github&theme=dark&fontFamily=&preferLogin=false" />
+    <img src="https://streak-stats.demolab.com/?user=gunjankushwaha17&theme=github_dark&hide_border=true&cache_seconds=86400" alt="gunjankushwaha17's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=gunjankushwaha17">
+    <img src="https://komarev.com/ghpvc/?username=gunjankushwaha17&label=Profile%20views&color=2563EB&style=flat-square" alt="gunjankushwaha17's profile views" />
+  </a>
+</p>
+
+## Tech Stack
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" alt="Programming Languages" />
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="Frontend" />
+</p>
+
+<h3 align="center">Backend & Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database" />
+</p>
+
+<h3 align="center">Cloud & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,vercel,vscode,figma" alt="Tools" />
+</p>
 
 
----
-⭐ Always learning, building, and contributing.
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/gunjankushwaha17">
+    <img src="https://img.shields.io/badge/GitHub-gunjankushwaha17-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/gunjankushwaha">
+    <img src="https://img.shields.io/badge/LinkedIn-Gunjan%20Kushwaha-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gunjan.k1712@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gun.k1712%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E293B" alt="Email" />
+  </a>
+  <a href="https://gunjankushwaha17.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B" alt="Portfolio" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
