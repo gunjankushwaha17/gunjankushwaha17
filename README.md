@@ -18,6 +18,20 @@
   <img src="https://img.shields.io/badge/2023--2027-Student-1E40AF?style=for-the-badge" alt="Student" />
 </p>
 
+## GitHub Stats
+
+<!-- No fixed height/width: images keep their aspect ratio, shrink on small screens and stack when there's no room -->
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gunjankushwaha17?cardType=github&theme=dark&fontFamily=&preferLogin=false&show_border=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=gunjankushwaha17&theme=github_dark&hide_border=true&cache_seconds=86400" alt="gunjankushwaha17's GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=gunjankushwaha17">
+    <img src="https://komarev.com/ghpvc/?username=gunjankushwaha17&label=Profile%20views&color=2563EB&style=flat-square" alt="gunjankushwaha17's profile views" />
+  </a>
+</p>
+
 ## 👩‍💻 `whoami`
 
 ```js
@@ -57,19 +71,6 @@ const gunjan = {
 };
 ```
 
-## GitHub Stats
-
-<!-- No fixed height/width: images keep their aspect ratio, shrink on small screens and stack when there's no room -->
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gunjankushwaha17?cardType=github&theme=dark&fontFamily=&preferLogin=false&show_border=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=gunjankushwaha17&theme=github_dark&hide_border=true&cache_seconds=86400" alt="gunjankushwaha17's GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=gunjankushwaha17">
-    <img src="https://komarev.com/ghpvc/?username=gunjankushwaha17&label=Profile%20views&color=2563EB&style=flat-square" alt="gunjankushwaha17's profile views" />
-  </a>
-</p>
 
 ## 🌱 Currently
 
